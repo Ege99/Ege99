@@ -10,6 +10,6 @@ I'm Hilmi EgE, a 22 years old Software Development from Turkey.
 - 💽 MySQL, MSSQL
 
 ## Contact
-- [@martonlederer](https://twitter.com/egesubat99) on Twitter
-- [@martonlederer](https://twitter.com/egesubat) on Instagram
+- [@egesubat99](https://twitter.com/egesubat99) on Twitter
+- [@egesubat](https://twitter.com/egesubat) on Instagram
 - [Ege#4852](./) on Discord
