@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Ege99/Ege99/master/name.svg" alt="Hilmi Ege SUBAT" />
+</h1>
 
-<!--
-**Ege99/Ege99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Hilmi EgE, a 22 years old Software Development from Turkey.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 C#, Java, Python, MATLAB, C++, JavaScript, PHP, Visual Basic, CSS
+- 💽 MySQL, MSSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@martonlederer](https://twitter.com/egesubat99) on Twitter
+- [@martonlederer](https://twitter.com/egesubat) on Instagram
+- [Ege#4852](./) on Discord
