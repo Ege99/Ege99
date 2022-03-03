@@ -6,7 +6,7 @@
 I'm Hilmi EgE, a 22 years old Software Development from Turkey.
 
 ## Skills
-- 👨‍💻 C#, Java, Python, MATLAB, C++, JavaScript, PHP, Visual Basic, CSS
+- 👨‍💻 C#, Java, Python, MATLAB, C++, JavaScript, PHP, HTML, Visual Basic, CSS
 - 💽 MySQL, MSSQL
 
 ## Contact
