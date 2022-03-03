@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Hilmi EgE, a 22 years old Software Development from Turkey.
+I'm Hilmi EgE, a 23 years old Software Development from Turkey.
 
 ## Skills
 - 👨‍💻 C#, Java, Python, MATLAB, C++, JavaScript, PHP, HTML, Visual Basic, CSS
