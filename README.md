@@ -16,4 +16,4 @@ I'm Hilmi EgE, a 23 years old Software Development from Turkey.
 ## Contact
 - [@egesubat99](https://twitter.com/egesubat99) on Twitter
 - [@egesubat](https://instagram.com/egesubat) on Instagram
-- [Ege#4852](discordapp.com/users/Ege#4852) on Discord
+- [Ege#4852](https://discordapp.com/users/Ege#4852) on Discord
