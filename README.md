@@ -3,14 +3,14 @@
 </h1>
 
 ## Hey! 👋
-I'm Hilmi Ege, a 23 years old Software Development from Turkey.
+I'm Hilmi Ege, a 24 years old Software Developer from Turkey.
 
 ## Skills
-- 👨‍💻 C#, Java, Python, MATLAB, C++,  PHP,  Visual Basic
-- 💻 JavaScript, HTML, CSS
-- 💽 MySQL, MSSQL, WAMP SERVER
-- 🛠  VSCODE, VSStudio, Intellij, Python IDLE, Google Colab
-- 🧱 Backend - Frontend Developing, Machine Learning, Image Processing, Data Structures, Computer Networks, Algorithm Analysis, System Analysis - Improvement - Applicaiton
+- 👨‍💻 Java, C#, Python, MATLAB, C++, PHP, Visual Basic
+- 💻 JSF, JavaScript, PrimeFaces, HTML, CSS
+- 💽 MySQL, MSSQL, Oracle, WAMP SERVER
+- 🛠  Intellij, VSCODE, VSStudio, Python IDLE, Google Colab
+- 🧱 Backend - Frontend Developing, Machine Learning, Image Processing, Data Structures, Computer Networks, Algorithm Analysis, System Analysis - Improvement - Application
 - 🧮 Time Series, Statistics, Algebra, Regression Analysis, Linear Algebra, Calculus Analysis, Multiple Integral, Number Theory, Numerical Analysis, Complex Analysis
 
 ## Contact
